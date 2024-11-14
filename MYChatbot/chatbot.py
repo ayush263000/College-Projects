@@ -1,7 +1,7 @@
 import openai
 
 # Set your OpenAI API key
-openai.api_key = "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"  # Replace with your actual API key
+openai.api_key = "Enter API KEY here"  # Replace with your actual API key
 
 def generate_response(user_input):
     """
